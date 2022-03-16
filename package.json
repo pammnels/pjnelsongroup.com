@@ -6,9 +6,20 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "",
+  "author": "Pamm Nelson",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pammnels/pjnelsongroup.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pammnels/pjnelsongroup.com/issues"
+  },
+  "homepage": "https://github.com/pammnels/pjnelsongroup.com#readme",
+  "keywords": [
+    "(portfolio)"
+  ]
 }
