@@ -37,7 +37,7 @@ img {
 #logo {
   width: 70px;
   height: 70px;
-  color: #fff;
+  color: rgb(23, 21, 21);
   text-transform: uppercase;
 }
 
@@ -57,7 +57,7 @@ img {
 
   a {
     text-decoration: none;
-    color: #fff;
+    color: rgb(25, 20, 20);
     text-transform: uppercase;
     border-bottom: 3px transparent solid;
     padding-bottom: 0.5rem;
@@ -79,7 +79,7 @@ img {
   &-home {
     background: $bg-image no-repeat center right / cover;
     height: 100vh;
-    color: #fff;
+    color: rgb(18, 14, 14);
 
     // Header Content
     .header-content {
